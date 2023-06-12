@@ -1,0 +1,9 @@
+.page__footer {
+  height: 6em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: $color-bg;
+  bottom: 0;
+}

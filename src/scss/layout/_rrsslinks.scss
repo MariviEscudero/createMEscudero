@@ -1,0 +1,10 @@
+.page__links--rrsslist {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: $color-rrss-bg;
+}
+.page__links--list__item--rrssref__icon {
+  padding: 0.5em;
+  color: $color-links;
+}

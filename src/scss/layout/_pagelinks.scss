@@ -1,0 +1,7 @@
+.page__links--list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 0.5em;
+  background-color: $color-links-bg;
+}
