@@ -2,4 +2,9 @@
   color: $color-links;
   font-size: 0.8em;
   padding: 0.5em;
+  @media (min-width: 1024px) {
+    &:hover {
+      background-color: rgb(224, 107, 5);
+    }
+  }
 }
