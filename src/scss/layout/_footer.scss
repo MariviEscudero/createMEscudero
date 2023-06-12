@@ -5,10 +5,9 @@
   justify-content: center;
   align-items: center;
   background-color: $color-bg;
-  @media(min-width: 1024px){
+  @media (min-width: 1024px) {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
   }
-  
 }

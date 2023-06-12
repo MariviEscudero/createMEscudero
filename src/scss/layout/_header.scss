@@ -4,7 +4,7 @@
   flex-direction: column;
   justify-content: center;
   background-color: $color-bg;
-  @media(min-width: 1024px){
+  @media (min-width: 1024px) {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
