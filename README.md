@@ -1,5 +1,4 @@
 # createMEscudero
-
 Ejemplo de maquetación de layout responsive con HTML y CSS.
 Se ha utilizado plantilla precreada de automatización de tareas, lo que permite agrupar HTML y CSS bajo metodología BEM en la carpeta public/ y trabajar en la carpeta src/ en archivos que corresponden a fragmentos que se puedan reutilizar en distintas partes de la web, como links, secciones o menús de navegación. También permite agrupar mediaqueries creadas en los archivos SCSS y colocarlos al final del documento CSS.
 
