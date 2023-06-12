@@ -3,8 +3,20 @@
   font-size: 0.8em;
   padding: 0.5em;
   @media (min-width: 1024px) {
+    @keyframes intro {
+      from {
+        opacity: 0;
+        transform: scale(10) rotate(-150deg);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
     &:hover {
       background-color: rgb(224, 107, 5);
+     animation: intro 1s;
     }
+   
   }
 }
